@@ -110,7 +110,7 @@ class _FOODDetailPageState extends State<Shopdetailpage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Padding(
-                      padding: const EdgeInsets.all(16.0),
+                      padding: const EdgeInsets.only(top: 32.0,bottom: 16.0),
                       child: Text(
                         "MenuSignature",
                         style: TextStyle(fontSize: 35.0, color: Colors.red),
