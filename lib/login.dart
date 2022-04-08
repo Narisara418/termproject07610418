@@ -106,6 +106,13 @@ class _LoginState extends State<Login> {
                           ),
                       ],
                     ),
+
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text('PIN login: 123456'),
+                    ],
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
