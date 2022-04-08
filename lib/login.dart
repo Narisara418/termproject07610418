@@ -108,6 +108,7 @@ class _LoginState extends State<Login> {
                     ),
 
                   ),
+
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
